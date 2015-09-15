@@ -7,6 +7,6 @@
 #include <stdio.h>
 
 int main(void){
-	printf(" Imprimiedo linea 10 version 1.0");
+	printf(" Imprimiedo  la linea 10 version 1.0");
 	return 0;
 	}
